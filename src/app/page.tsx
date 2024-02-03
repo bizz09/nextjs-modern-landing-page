@@ -1,6 +1,4 @@
 "use client"
-import Image from "next/image";
-import { motion } from "framer-motion";
 import Hero from "@/components/organisms/hero";
 import Skills from "@/components/organisms/skills";
 import Encryption from "@/components/organisms/encryption";
